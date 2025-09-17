@@ -1,0 +1,833 @@
+skill
+.NET
+.NET Core
+.NET MAUI
+ACM
+ACR
+ADF
+ADLS Gen2
+ADO
+AI Studio (OpenAI)
+AKS
+ALB
+AMQP
+API Gateway
+API Management
+APIM
+ASP.NET Core
+ASP.NET Core Web API
+AWS ALB
+AWS API Gateway
+AWS Backup
+AWS Amazon MQ
+AWS AppSync
+AWS Athena
+AWS Aurora
+AWS Bedrock
+AWS CDK
+AWS CLB
+AWS Certificate Manager
+AWS CloudFormation
+AWS CloudFront
+AWS CloudTrail
+AWS CloudWatch
+AWS CodeBuild
+AWS CodeCommit
+AWS CodeDeploy
+AWS CodePipeline
+AWS Cognito
+AWS DocumentDB
+AWS DynamoDB
+AWS EBS
+AWS EC2
+AWS ECS
+AWS EFS
+AWS EKS
+AWS EMR
+AWS/ Amazon Web Services
+AWS ElastiCache
+AWS Elastic Beanstalk
+AWS Elastic Load Balancing
+AWS Elasticache for Redis
+AWS EventBridge
+AWS FSx for Lustre
+AWS FSx for NetApp ONTAP
+AWS FSx for Windows
+AWS Fargate
+AWS Forecast
+AWS Global Accelerator
+AWS Glue
+AWS GuardDuty
+AWS IAM
+AWS Inspector
+AWS KMS
+AWS Kendra
+AWS Keyspaces
+AWS Kinesis
+AWS Lambda
+AWS Macie
+AWS NLB
+AWS Neptune
+AWS OpenSearch
+AWS OpenSearch Service
+AWS OpsWorks
+AWS Parameter Store
+AWS Personalize
+AWS Polly
+AWS PrivateLink
+AWS QLDB
+AWS QuickSight
+AWS RDS
+AWS Redis on AWS
+AWS Redshift
+AWS Rekognition
+AWS S3
+AWS SAM
+AWS SNS
+AWS SQS
+AWS SSM (Systems Manager)
+AWS SageMaker
+AWS Secrets Manager
+AWS Security Hub
+AWS Shield
+AWS Snowball
+AWS Snowcone
+AWS Snowmobile
+AWS Step Functions
+AWS Storage Gateway
+AWS Systems Manager
+AWS Textract
+AWS Timestream
+AWS Transcribe
+AWS Transit Gateway
+AWS Translate
+AWS VPC
+AWS WAF
+AWS X-Ray
+ActiveMQ
+Actix Web
+Alpine Linux
+Altair
+Android
+Angular
+Annoy
+Ansible
+Ant Design
+Apache Airflow
+Apache Arrow
+Apache Beam
+Apache Flink
+Apache Hudi
+Apache Iceberg
+Apache Spark
+Apache Superset
+Apigee
+Apollo Server
+App Engine
+App Gateway
+App Insights
+App Service
+AppSync
+Application Gateway
+Application Insights
+Archive Storage
+Argo CD
+Argo Workflows
+Artifact Registry
+Astro
+Athena
+Aurora
+Aurora MySQL
+Aurora PostgreSQL
+Auth0
+AutoML
+Avro
+Avro Schema
+Axum
+Azure AD
+Azure AI Studio (OpenAI)
+Azure API Management
+Azure App Service
+Azure Application Gateway
+Azure Application Insights
+Azure Archive Storage
+Azure Azure CDN
+Azure Azure DevOps
+Azure Azure Firewall
+Azure Batch
+Azure Blob Storage
+Azure Bot Service
+Azure CDN
+Azure Cache for Redis
+Azure Cognitive Services
+Azure Container Apps
+Azure Container Registry
+Azure Cosmos DB
+Azure DDoS Protection
+Azure DNS
+Azure Data Factory
+Azure Data Lake Storage Gen2
+Azure Database for MySQL
+Azure Database for PostgreSQL
+Azure Databricks
+Azure Databricks (Azure)
+Azure Defender for Cloud
+Azure DevOps
+Azure Event Grid
+Azure Event Hubs
+Azure ExpressRoute
+Azure Files
+Azure Firewall
+Azure Front Door
+Azure Functions
+Azure HDInsight
+Azure Key Vault
+Azure Kubernetes Service
+Azure Load Balancer
+Azure Log Analytics
+Azure Logic Apps
+Azure ML
+Azure Machine Learning
+Azure Managed Disks
+Azure Microsoft Entra ID
+Azure Microsoft Sentinel
+Azure Monitor
+Azure MySQL
+Azure OpenAI
+Azure PostgreSQL
+Azure Private Link
+Azure SQL Database
+Azure SQL Managed Instance
+Azure Service Bus
+Azure Stream Analytics
+Azure Synapse
+Azure Synapse Analytics
+Azure VM Scale Sets
+Azure VMs
+Azure Virtual Machines
+Azure Virtual Network
+Adobe
+BQ
+Babel
+Bash
+Batch
+Bazel
+Bedrock
+BigQuery
+Bigtable
+Bitbucket
+Blob Storage
+Blue-Green Deployments
+Bokeh
+Bootstrap 
+Bot Service
+Burp Suite
+C
+C#
+C++
+CDK
+CDN
+CLB
+CLIP
+CMake
+CSS
+CSV
+Cache for Redis
+Canary Deployments
+Canvas API
+Cassandra
+CatBoost
+CentOS
+Certificate Manager
+Chai
+Chakra UI
+Chart
+Chartjs
+Chef
+CircleCI
+ClickHouse
+Cloud Armor
+Cloud Build
+Cloud CDN
+Cloud Deploy
+Cloud Functions
+Cloud Interconnect
+Cloud KMS
+Cloud Load Balancing
+Cloud Logging
+Cloud Monitoring
+Cloud Run
+Cloud SQL
+Cloud Storage
+Cloud Trace
+CloudFormation
+CloudFront
+CloudTrail
+CloudWatch
+CodeBuild
+CodeCommit
+CodeDeploy
+CodeIgniter
+CodePipeline
+Cognitive Services
+Cognito
+Composer
+Comprehend
+Compute Engine
+Conda
+Confluent Platform
+Consul
+Container Apps
+Container Registry
+Cosmos DB
+Couchbase
+Cypress
+D3
+DAST
+DDoS Protection
+DMS
+DNS
+DVC
+Data Factory
+Data Fusion
+Data Lake Storage Gen2
+Database for MySQL
+Database for PostgreSQL
+Databricks
+Databricks (Azure)
+Datadog
+Dataflow
+Dataproc
+Debian
+Defender for Cloud
+Delta Lake
+Dependabot
+Detectron2
+Direct Connect
+Django
+Django REST Framework
+Doc2Vec
+Docker
+Docker Compose
+Dockerfile
+DocumentDB
+DynamoDB
+EBS
+EC2
+ECS
+ECharts
+EFK
+EFS
+EKS
+ELK
+EMR
+ESLint
+Echo (Go)
+ElastiCache
+Elastic Beanstalk
+Elastic Load Balancing
+Elasticache for Redis
+Elasticsearch
+Electron
+Entity Framework Core
+Event Grid
+Event Hubs
+EventBridge
+Express
+Express.js
+ExpressJS
+ExpressRoute
+FAISS
+FSx for Lustre
+FSx for NetApp ONTAP
+FSx for Windows
+Fargate
+FastAPI
+FastText
+Fastify
+Feast
+Feather
+Fiber (Go)
+Files
+Filestore
+Firestore
+Firewall
+Flask
+Flutter
+Forecast
+Front Door
+Functions
+GAE
+GCE
+GCP API Gateway
+GCP Apigee
+GCP App Engine
+GCP Artifact Registry
+GCP AutoML
+GCP BigQuery
+GCP Bigtable
+GCP Cloud Armor
+GCP Cloud Build
+GCP Cloud CDN
+GCP Cloud Deploy
+GCP Cloud Functions
+GCP Cloud Interconnect
+GCP Cloud KMS
+GCP Cloud Load Balancing
+GCP Cloud Logging
+GCP Cloud Monitoring
+GCP Cloud Run
+GCP Cloud SQL
+GCP Cloud Storage
+GCP Cloud Trace
+GCP Composer
+GCP Compute Engine
+GCP Data Fusion
+GCP Dataflow
+GCP Dataproc
+GCP Filestore
+GCP Firestore
+GCP Kubernetes Engine
+GCP Looker
+GCP Memorystore
+GCP Persistent Disk
+GCP Pub/Sub
+GCP Secret Manager
+GCP Spanner
+GCP VPC
+GCP Vertex AI
+GCS
+GDAL
+GDPR
+GKE
+Gensim
+GeoPandas
+Gin (Go)
+Git
+Git LFS
+Git Submodules
+GitHub
+GitHub Actions
+GitLab
+GitLab CI
+Global Accelerator
+Glue
+Golang/Go
+Google BigQuery
+Google Cloud API Gateway
+Google Cloud Apigee
+Google Cloud App Engine
+Google Cloud Artifact Registry
+Google Cloud AutoML
+Google Cloud BigQuery
+Google Cloud Bigtable
+Google Cloud Composer
+Google Cloud Compute Engine
+Google Cloud Data Fusion
+Google Cloud Dataflow
+Google Cloud Dataproc
+Google Cloud Filestore
+Google Cloud Firestore
+Google Cloud Kubernetes Engine
+Google Cloud Looker
+Google Cloud Memorystore
+Google Cloud Persistent Disk
+Google Cloud Pub/Sub
+Google Cloud Secret Manager
+Google Cloud Spanner
+Google Cloud VPC
+Google Cloud Vertex AI
+Google Dataflow
+Google Dataproc
+Google Pub/Sub
+Gradle
+Grafana
+GraphQL
+Great Expectations
+GuardDuty
+HDFS
+HDInsight
+HIPAA
+HNSWlib
+HTML
+HTTP/2
+HTTP/3
+Hadoop
+Hapi
+HashiCorp Vault
+Haskell
+Helm
+Hibernate
+Highcharts
+Hive
+Hugging Face Transformers
+IAM
+ICE
+ISO 27001
+InfluxDB
+Inspector
+Ionic
+Istio
+JAX
+JMeter
+JS
+JSON
+JUnit
+JWT
+Jaeger
+JanusGraph
+Java
+JavaScript(JS)
+Jenkins
+Jest
+Jetpack Compose
+Julia
+KMS
+Kafka
+Kafka Protocol
+Kendra
+Keras
+Key Vault
+Keycloak
+Keyspaces
+Kinesis Data Analytics
+Kinesis Data Streams
+Kinesis Firehose
+Koa
+Kotlin
+Kubeflow
+Kubernetes
+Kubernetes Engine
+Kubernetes Service
+Kustomize
+Lake Formation
+Lambda
+LangChain
+Laravel
+Less
+LightGBM
+Linkerd
+Linux
+Lit
+LlamaIndex
+Load Balancer
+Locust
+Log Analytics
+Logic Apps
+Loki
+Looker
+Looker Studio
+Luigi
+MATLAB
+MLflow
+MMDetection
+MQTT
+MUI
+Machine Learning
+Macie
+Make
+Managed Disks
+MariaDB
+Material UI
+Matplotlib
+Maven
+Memcached
+Memorystore
+Metabase
+Micronaut
+Microsoft Entra ID
+Microsoft Sentinel
+Milvus
+Mocha
+Mode
+MongoDB
+Monitor
+MySQL
+NLB
+NLTK
+NUnit
+NVIDIA Triton Inference Server
+Neo4j
+Neptune
+NestJS
+NestJS.js
+NestJSJS
+New Relic
+Newman
+Next
+Next.js
+NextJS
+Nextjs
+NoSQL
+Node
+Node.js
+NodeJS
+Nomad
+NumPy
+Nuxt
+Nuxt.js
+NuxtJS
+Nx
+OAuth 2.0
+OCI Images
+OCaml
+ONNX
+ORC
+OWASP Top 10
+OWASP ZAP
+Objective-C
+Okta
+OpenAPI
+OpenCV
+OpenID Connect
+OpenSearch
+OpenSearch Service
+OpenShift
+OpenTelemetry
+OpsWorks
+Oracle Database
+PCI DSS
+PKI
+PL/SQL
+PWA
+Packer
+Pact
+Parameter Store
+Parquet
+Persistent Disk
+Personalize
+Pig
+Pinecone
+Playwright
+Plotly
+Podman
+Poetry
+Polly
+PostCSS
+PostGIS
+PostgreSQL
+Postman
+Power BI
+PowerShell
+Prefect
+Presto
+Prettier
+Private Link
+PrivateLink
+Prometheus
+Prometheus TSDB
+Protobuf
+Pub/Sub
+PubSub
+Pulsar
+Pulumi
+Puppet
+Py3
+PyPortfolioOpt
+PySpark
+PyTorch
+Python
+Python 3
+QGIS
+QLDB
+Qdrant
+Qt
+QuantLib
+Quarkus
+QuestDB
+QuickSight
+R
+RAG
+RDS
+REST
+RLlib
+RabbitMQ
+Radix UI
+Ray
+React
+React Native
+React Query
+React.js
+ReactJS
+Redis
+Redis Cache
+Redis on AWS
+Redshift
+Redux
+Redux Toolkit
+Rekognition
+Rocket (Rust)
+Rocky Linux
+Route 53
+Route53
+Ruby on Rails
+Rust
+S3
+S3 Glacier
+SAM
+SAML
+SAST
+SBERT
+SBT
+SCA
+SCSS
+SFU
+SNS
+SOAP
+SOC 2
+SQL
+SQL Database
+SQL MI
+SQL Managed Instance
+SQL Server
+SQLite
+SQS
+SSM
+STUN/TURN
+SVN
+SWC
+SageMaker
+Sass
+Scala
+Schema Registry
+SciPy
+Seaborn
+Secret Manager
+Secrets Manager
+Security Hub
+Selenium
+Semgrep
+Sentence Transformers
+Sentinel
+Service Bus
+Service Mesh
+Service Workers
+Shapely
+Shell Scripting
+Shield
+SignalR
+Snowball
+Snowcone
+Snowflake
+Snowmobile
+Socket.IO
+Solr
+SonarQube
+Spanner
+Spinnaker
+Splunk
+Spring
+Spring Boot
+Stable Diffusion
+Step Functions
+Storage Gateway
+Storybook
+Stream Analytics
+Svelte
+Swagger
+Swift
+SwiftUI
+Symfony
+Synapse
+Synapse Analytics
+Systems Manager
+T-SQL
+TA-Lib
+TFX
+TLS
+TS
+Tableau
+Tailwind CSS
+TanStack Query
+Tauri
+Tecton
+Tekton
+Tempo
+TensorFlow
+TensorRT
+Terraform
+TestNG
+Textract
+Threat Modeling
+Three
+Three.js
+ThreeJS
+Threejs
+TimescaleDB
+Timestream
+Tornado
+Transcribe
+Transit Gateway
+Translate
+Travis CI
+Trino
+TypeScript
+Ubuntu
+VBA
+VM Scale Sets
+VMSS
+VNet
+VPC
+Vertex AI
+Virtual Machines
+Virtual Network
+Vite
+Vitest
+Vue
+Vue.js
+VueJS
+WAF
+WPF
+Weaviate
+Web Components
+WebGL
+WebRTC
+WebSockets
+Webpack
+Weights & Biases
+WinUI
+Windows
+Word2Vec
+X-Ray
+XGBoost
+XML
+YAML
+YOLOv5
+YOLOv8
+Zipkin
+Zipline
+Zustand
+backtrader
+dbt
+gRPC
+hypothesis
+iOS
+k6
+kdb+/q
+ksqlDB
+mTLS
+macOS
+nose
+npm
+pandas
+pandas-datareader
+pip
+pnpm
+pytest
+scikit-learn
+spaCy
+statsmodels
+torchvision
+Testing 
+yarn
+yfinance
+Python 
+Agile 
+Automation Testing
+API Testing
+Apache Tomcat
+Apache
+BDD
+Backup and Recovery
+Best Practice Implementation
+Ad Creation

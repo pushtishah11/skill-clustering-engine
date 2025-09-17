@@ -1,0 +1,4026 @@
+{
+    "_shards": {
+        "total": 1,
+        "failed": 0,
+        "successful": 1,
+        "skipped": 0
+    },
+    "hits": {
+        "hits": [],
+        "total": {
+            "value": 3834,
+            "relation": "eq"
+        },
+        "max_score": null
+    },
+    "took": 10,
+    "timed_out": false,
+    "aggregations": {
+        "Skills": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 34079,
+            "buckets": [
+                {
+                    "doc_count": 2,
+                    "key": "(REST) APIs"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ". Net Core"
+                },
+                {
+                    "doc_count": 17,
+                    "key": ".NET"
+                },
+                {
+                    "doc_count": 2,
+                    "key": ".NET (Basic) Framework"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".NET 8"
+                },
+                {
+                    "doc_count": 7,
+                    "key": ".NET Core"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".NET Core 3/5/6/8"
+                },
+                {
+                    "doc_count": 2,
+                    "key": ".NET Core API"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".NET Entity Framework"
+                },
+                {
+                    "doc_count": 3,
+                    "key": ".NET Framework"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".NET MVC"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".NET N tier architecture"
+                },
+                {
+                    "doc_count": 2,
+                    "key": ".NET Technologies"
+                },
+                {
+                    "doc_count": 3,
+                    "key": ".NET Web API"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".NET framework"
+                },
+                {
+                    "doc_count": 17,
+                    "key": ".Net"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".Net (4.04.54.64.7)"
+                },
+                {
+                    "doc_count": 7,
+                    "key": ".Net Core"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".Net Core 2.0"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".Net Core Web API"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".Net Core Web Api"
+                },
+                {
+                    "doc_count": 2,
+                    "key": ".Net Framework"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".Net Framework 4.8"
+                },
+                {
+                    "doc_count": 4,
+                    "key": ".Net Frameworks"
+                },
+                {
+                    "doc_count": 3,
+                    "key": ".Net MVC/Core"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".Net Technologies"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".Net With MVC"
+                },
+                {
+                    "doc_count": 4,
+                    "key": ".Net core"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".Net framework"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".Netcore"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".net Core"
+                },
+                {
+                    "doc_count": 1,
+                    "key": ".net framework 4.8"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "2D and 3D animation"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "301 Redirects"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "3D Design (Blender Autodesk Maya)"
+                },
+                {
+                    "doc_count": 10,
+                    "key": "3D Reconstruction"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "3D Studio Max"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "3DS Max"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "3rd Party Integration"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "5G HTTP Flow Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "5G Introduction"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "A/B testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AB Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ACCELQ"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ADB"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ADDM Report Analysis"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ADDM Reports"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ADF"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ADO"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ADO / VSTS"
+                },
+                {
+                    "doc_count": 6,
+                    "key": "ADO.NET"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "ADO.Net"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ADO.net"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ADVANCE EXCEL"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ADVANCE JAVA (SPRING HIBERNATE)"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "AGILE"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AGILE (SCRUM)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AGILE METHODOLOGIES"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AGILE METHODOLOGY"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AGILE Methodologies"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AGILE methodologies"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AGILE(SCRUM)"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "AI"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AI Agents"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AI Chat / Voice Bot"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AI Content Generators"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AI Workflow Automation Tools"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AI/ML"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AIOps"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AISEO"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AIX"
+                },
+                {
+                    "doc_count": 59,
+                    "key": "AJAX"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AJAX Development"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AKKA"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AKS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ALB"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ALM 11/12"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ALT text writing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AMPScript"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ANDRIOD"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ANDROID"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ANDROID SDK"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ANDROID STUDIO"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "ANGULAR"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "ANGULARJS"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "ANT"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "APACHE KAFKA"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "APCC"
+                },
+                {
+                    "doc_count": 15,
+                    "key": "API"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API & Networking"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API Automation"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API Automation Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API Automation: Postman & Newman"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "API Design"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API Design and Development"
+                },
+                {
+                    "doc_count": 5,
+                    "key": "API Development"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API Development & Third party API Integration"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API Development Planning"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API End-to-End Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API GATEWAY"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "API Gateway"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "API Implementation"
+                },
+                {
+                    "doc_count": 13,
+                    "key": "API Integration"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "API Integrations"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API Optimization"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "API PHP"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "API TESTING"
+                },
+                {
+                    "doc_count": 65,
+                    "key": "API Testing"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "API Testing (POSTMAN)"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "API Testing (Postman)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API Testing by POSTMAN"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "API Testing using Postman"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API Testing with swagger"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "API Testing- POSTMAN"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API creation using Express node.js"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "API design"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API development"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API generation"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "API integration"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API integrations"
+                },
+                {
+                    "doc_count": 7,
+                    "key": "API testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API testing using Postman"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API testing using Postman tool"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "API testing-POSTMAN"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "API using Postman"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "APIS - OPENAI(tts chatgpt3DALL- ERESTSAOP)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "APITesting"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "APIs"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "APP LAYOUTS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AR / VR"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AR Core"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ARCON"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ARCON PAM"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "ASANA"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ASAP orbit tool"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ASH"
+                },
+                {
+                    "doc_count": 10,
+                    "key": "ASM"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ASO"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "ASP"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "ASP .NET"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ASP .NET Core"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ASP .NET MVC"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ASP .Net"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ASP Net"
+                },
+                {
+                    "doc_count": 31,
+                    "key": "ASP.NET"
+                },
+                {
+                    "doc_count": 9,
+                    "key": "ASP.NET Core"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ASP.NET Core (API)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ASP.NET Core 6.0"
+                },
+                {
+                    "doc_count": 13,
+                    "key": "ASP.NET MVC"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ASP.NET MVC 5.0"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "ASP.NET Web API"
+                },
+                {
+                    "doc_count": 14,
+                    "key": "ASP.Net"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "ASP.Net MVC"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ASP.net"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ASP.net Core"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ASP.net MVC"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ATMEGA 328p"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ATS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AURA & LWC"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWK"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AWR"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWR Reports"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWR reports"
+                },
+                {
+                    "doc_count": 340,
+                    "key": "AWS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS ( EC2 IAM Security Group)"
+                },
+                {
+                    "doc_count": 7,
+                    "key": "AWS (Basics)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS (EC2 EBS AMI ELB S3 Auto Scaling IAM)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS (EC2 S3 Lambda RDS API Gateway)"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "AWS (EC2 S3)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS (Intermediate)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS (S3 EC2 RDS)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS (S3/EC2)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS (SNS SES S3)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS - S3"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AWS Amplify"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS AppSync"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Basic"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Beanstalk"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "AWS CI/CD"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS CICD"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Certified Cloud Practitioner"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Certified Developer Associate"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Certified Solutions Architect"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Cloud"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Cloud Practitioner Essentials"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Cloud Services"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AWS CloudFormation"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AWS Cloudformation"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AWS CodeCommit"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS CodePipeline"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Cognito Express"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Developer Associate"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS DyanmoDB"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Dynamo DB"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS DynamoDB"
+                },
+                {
+                    "doc_count": 13,
+                    "key": "AWS EC2"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS EC2 / Lambda / S3"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS ECR"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "AWS ECS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS ELK"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AWS IAM"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Img-handler"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS IoT"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS LAMBDA"
+                },
+                {
+                    "doc_count": 12,
+                    "key": "AWS Lambda"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Media Convert"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Pipeline"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "AWS RDS"
+                },
+                {
+                    "doc_count": 11,
+                    "key": "AWS S3"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS S3 Bucket"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AWS S3 Storage"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS SAM"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS SAM (AWS Serverless Application Model)"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AWS SERVICES"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS SNS"
+                },
+                {
+                    "doc_count": 5,
+                    "key": "AWS SQS"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AWS SageMaker"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AWS Server - EC2"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Serverless"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Serverless Architecture (SAM)"
+                },
+                {
+                    "doc_count": 10,
+                    "key": "AWS Services"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Services like EC2 S3"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Solution Architect Associate"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Solutions & Services"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWS Storage services"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "AWS certification"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AWS services"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "AWS/Azure"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AWT"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "AXIOS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AZURE"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ability To Work in Team"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ability to Follow Instructions"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ability to Understand Objectives"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ability to Work in a Team"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Ability to build customer relationships"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ability to lead"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ability to manage projects"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ability to work in a team"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ability to work independently as well as with a team"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ability to work under pressure"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Acceptance Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Access"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Access control"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Accessibility Design"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Accessibility Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Accessibility testing"
+                },
+                {
+                    "doc_count": 6,
+                    "key": "Account Management"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Account Management & Consulting"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Account Plan"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Account Reconciliation"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Account receivable"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Accounting"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Active Dataguard"
+                },
+                {
+                    "doc_count": 7,
+                    "key": "Active Directory"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Active Directory Management"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Active Listener"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Active Listening"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Active MQ"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Active Team Player"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Active directory"
+                },
+                {
+                    "doc_count": 8,
+                    "key": "ActiveMQ"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ActiveMQ Artemis"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "ActiveMq"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Activiti BPMN"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Activity"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Actuators"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ad Creation"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Ad Space Selling"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ad-Campaigns"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Ad-hoc Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ad-hoc testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AdWords"
+                },
+                {
+                    "doc_count": 15,
+                    "key": "Adaptability"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adaptability Quotient"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adaptability Skills"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adaptability and Continuous Learning"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adaptability and Flexibility"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adaptability/Flexibility"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adaptable"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adaptivity"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adaptivity and Learning"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adavance Analytical Thinking Skill"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Additional"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Additional Tools"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adherence to SEO"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adhoc Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Admin"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AdminJS"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Administartion"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Administration"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Administrative"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Administrative Support"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Administrative skills"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Admobs for Ads"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Adobe After Effect"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Adobe After Effects"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Adobe Creative Suite"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Creative Suite CC"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Dreameaver"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Dreamweaver"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Dreamweaver CS5"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Dreamweaver CS6"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Fireworks CS5"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Flash"
+                },
+                {
+                    "doc_count": 15,
+                    "key": "Adobe Illustrator"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Illustrator CS5"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe InDesign"
+                },
+                {
+                    "doc_count": 23,
+                    "key": "Adobe Photoshop"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Photoshop CS5"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Photoshop CS6"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Premier"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Premier Pro"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Premiere Pro"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Suite"
+                },
+                {
+                    "doc_count": 21,
+                    "key": "Adobe XD"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe Xd"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe after effects"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Adobe illustrator"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adobe photoshop"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Adonis Js"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Adonis.js"
+                },
+                {
+                    "doc_count": 5,
+                    "key": "Advance Excel"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Advance JAVA"
+                },
+                {
+                    "doc_count": 14,
+                    "key": "Advance Java"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Advance Java 8"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Advance Java(Jsp - Servlets)"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Advance PHP"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Advance java"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Advanced Excel"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Advanced Excel & Macros"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Advanced JAVA"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Advanced Java"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Advanced JavaScript"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Advanced Keyword Research"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Advanced Microsoft Excel"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Advanced SEO Strategies"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Advanced Selenium testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Advanced problem solving"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Advanced problem-solving skills"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AdvancedJava"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Aerospike"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Affinity Designer"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "After Effects (basic)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agents"
+                },
+                {
+                    "doc_count": 80,
+                    "key": "Agile"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile & Scrum"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Agile & Scrum Methodologies"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile & Scrum Methodology"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile & Waterfall"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile & Waterfall Methodologies"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile & Waterfall Methodology"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile (Scrum & Kanban)"
+                },
+                {
+                    "doc_count": 7,
+                    "key": "Agile (Scrum)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile - Scrum"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile / SCRUM"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile / Waterfall / Hybrid"
+                },
+                {
+                    "doc_count": 7,
+                    "key": "Agile Development"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Agile Development Lifecycle"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Agile Development Methodologies"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Expertise"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Agile Framework"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Framework - Scrum"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Leadership"
+                },
+                {
+                    "doc_count": 22,
+                    "key": "Agile Methodologies"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Methodologies & SDLC"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Methodologies Scrum Framework"
+                },
+                {
+                    "doc_count": 52,
+                    "key": "Agile Methodology"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Methodology (Scrum Framework)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Methodology (Scrum Kanban etc.)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Methodology/Scrum"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Methods"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Model"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Planning"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Process"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Product Management"
+                },
+                {
+                    "doc_count": 6,
+                    "key": "Agile Project Management"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Project Management Framework"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile SCRUM"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile SDLC"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Agile SDLC Model"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile SDLC and STLC"
+                },
+                {
+                    "doc_count": 6,
+                    "key": "Agile Scrum"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Scrum Management"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Scrum Master"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Agile Scrum Methodology"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Agile Software Development"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Techniques"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Agile Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Testing Methodologies"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Ways of Working"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile Web Development"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Agile Workflow"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Agile and Scrum"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Agile development"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Agile framework"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Agile methodologies"
+                },
+                {
+                    "doc_count": 9,
+                    "key": "Agile methodology"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile principles"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Agile project management"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Agile scrum"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Agile software development"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile testing"
+                },
+                {
+                    "doc_count": 9,
+                    "key": "Agile/Scrum"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile/Scrum & Sprint Cycle"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile/Scrum Methodologies"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile/Scrum Methodology"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Agile/Scrum QA Practices"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Agile/Scrum methodology"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile/scrum Environment"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agile: JIRA Confluence"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Agora RTC/RTM SDK"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Agora SDK"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Aha! Management"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Ahref"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Aide memoire"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Airbrake"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Airflow"
+                },
+                {
+                    "doc_count": 78,
+                    "key": "Ajax"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Akami ESI"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Akeyless"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Alert Log"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Alexa Skill"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Algo Trading"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Algorithm"
+                },
+                {
+                    "doc_count": 6,
+                    "key": "Algorithms"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Aliate Marketing"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Always-On"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Amazon AWS S3"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Amazon EC2"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Amazon ElasticbeanStalk"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Amazon Kinesis"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Amazon RDS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Amazon S3"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Amazon SP APIs"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Amazon SQS"
+                },
+                {
+                    "doc_count": 6,
+                    "key": "Amazon Web Services"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Amazon Web Services (AWS)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Amazon Web Services (EC2 RDSS3 Lambda BeanStalk Code Pipelines Glue)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Amazon Web Services (EC2 S3 IAM SNS EBS RDS CLI)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Amazon windows server (AWS)"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Anaconda"
+                },
+                {
+                    "doc_count": 9,
+                    "key": "Analysis"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analysis and execution of cases"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analysis of customer requests"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analysis skills"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analytic skills"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Analytical"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analytical & Logical Reasoning"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analytical Skill"
+                },
+                {
+                    "doc_count": 9,
+                    "key": "Analytical Skills"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Analytical Thinking"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analytical Thinking & Problem Solving"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analytical Thinking and Problem Solving"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analytical Tools"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analytical and Problem-Solving Skills"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Analytical skills"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analytical skills to identify the loopholes and the worst case scenarios of the application"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analytical skills to identify the loopholes and the worst-case scenarios of the application"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Analytical thinking"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analytics & Data-Driven Optimization"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analytics & Insights"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analytics Tools"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Analyzing"
+                },
+                {
+                    "doc_count": 100,
+                    "key": "Android"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android (10111215)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android (Kotlin and Java)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android - iOS Deployment"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android App Development"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android App Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android App development"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android Application Development (Enterprise Mobility)"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Android Application Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android Application development"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Android Development"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android Jetpack component"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android Mobile App Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android Native (JAVA + Kotlin)"
+                },
+                {
+                    "doc_count": 9,
+                    "key": "Android SDK"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android SDK (Native)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android SDK Platform Tools"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android SDK's"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android Stdio"
+                },
+                {
+                    "doc_count": 28,
+                    "key": "Android Studio"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android Studio - Kotlin"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android Technologies"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android Technology"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android platform"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android simulators"
+                },
+                {
+                    "doc_count": 5,
+                    "key": "Android studio"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android with Java"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Android(java)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Anguar 7"
+                },
+                {
+                    "doc_count": 294,
+                    "key": "Angular"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular (Version 8-16)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular (v8+)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 1-12"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 1.6"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 1.x"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Angular 10"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Angular 11"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Angular 12"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 12+"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 13.0"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 14"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 14+"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 17"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 18"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Angular 2"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 2 & 4"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 2 to 8"
+                },
+                {
+                    "doc_count": 9,
+                    "key": "Angular 2+"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 2+ versions"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 2.x"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 2/4/5/+"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 2/5/7"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 24812+"
+                },
+                {
+                    "doc_count": 8,
+                    "key": "Angular 4"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 4+"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 4.xx"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 4561014"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Angular 5"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 5/6"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Angular 5/7/8/12/18"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Angular 6"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 6 7"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 6 to 10"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 6+"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 6/7"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 6/7/8"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Angular 6/9"
+                },
+                {
+                    "doc_count": 6,
+                    "key": "Angular 7"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 7 / AngularJS"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Angular 7+"
+                },
+                {
+                    "doc_count": 11,
+                    "key": "Angular 8"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 8 (Beginner)"
+                },
+                {
+                    "doc_count": 5,
+                    "key": "Angular 8+"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 8-13"
+                },
+                {
+                    "doc_count": 6,
+                    "key": "Angular 9"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular 9.0 NodeJs"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular CLI"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular Core"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular Flexbox"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular Framework"
+                },
+                {
+                    "doc_count": 33,
+                    "key": "Angular JS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular JS web"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular JavaScript jQuery HTML & CSS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular Javascript"
+                },
+                {
+                    "doc_count": 10,
+                    "key": "Angular Js"
+                },
+                {
+                    "doc_count": 21,
+                    "key": "Angular Material"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular Material Framework"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular Rush Repo"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular TS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular UI 7 & 8"
+                },
+                {
+                    "doc_count": 7,
+                    "key": "Angular js"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular material Design"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular migration"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular unit test"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular-10"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular-16/17"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Angular.JS"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Angular.js"
+                },
+                {
+                    "doc_count": 12,
+                    "key": "Angular/Reactjs"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular10"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular12"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Angular2"
+                },
+                {
+                    "doc_count": 8,
+                    "key": "Angular2+"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular2/4/5"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular4"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular5"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular5.0"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular8"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Angular9+"
+                },
+                {
+                    "doc_count": 57,
+                    "key": "AngularJS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AngularJS 1"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AngularJS 1.x"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AngularJS 2+"
+                },
+                {
+                    "doc_count": 17,
+                    "key": "AngularJs"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AngularMaterial"
+                },
+                {
+                    "doc_count": 117,
+                    "key": "Angularjs"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Animaker"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ansbile"
+                },
+                {
+                    "doc_count": 59,
+                    "key": "Ansible"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ansibles"
+                },
+                {
+                    "doc_count": 9,
+                    "key": "Ant"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Ant Design"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AntD"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AntDesign"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Antd"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Antivirus Server"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Anydesk"
+                },
+                {
+                    "doc_count": 33,
+                    "key": "Apache"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache AirFlow"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache Airflow"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Apache Camel"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache Flink"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache Http server"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Apache JMeter"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache Jmeter"
+                },
+                {
+                    "doc_count": 17,
+                    "key": "Apache Kafka"
+                },
+                {
+                    "doc_count": 7,
+                    "key": "Apache Maven"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Apache Nifi"
+                },
+                {
+                    "doc_count": 5,
+                    "key": "Apache POI"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache POI API(Excel File Read/Write)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache POI for interacting with Excel sheet"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Apache Server"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Apache Solr"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Apache Spark"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache Struts"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache Subversion"
+                },
+                {
+                    "doc_count": 32,
+                    "key": "Apache Tomcat"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache Tomcat 7"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache Tomcat 7.0"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Apache Tomcat 8.0"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache Tomcat Server"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache Tomcat Web Server"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Apache Web Server"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache tomcat"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apache web server"
+                },
+                {
+                    "doc_count": 42,
+                    "key": "Apex"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apex & SOQL"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apex Asynchronous"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Apex Classes"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apex Classes and Triggers"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apex Controller"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Apex Data Loader"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Apex Programming"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apex SQL"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apex Test"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apex Trigger"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Apex Triggers"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apex class"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apex language"
+                },
+                {
+                    "doc_count": 19,
+                    "key": "Apex programming"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apex trigger"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Api Gateway"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Api Integration"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Api Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Api integration"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apollo GraphQL"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apollo server"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "App Deployment"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "App Desig"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "App Design"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "App Store Deployment"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "App Store requirements creation"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "App Submission basic process of Play Store and App Store"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "App Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AppCenter"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "AppD"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AppDynamics"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AppExchange"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Appian"
+                },
+                {
+                    "doc_count": 8,
+                    "key": "Appium"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Appium Framework"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Appium Inspector"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Appium Server"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apple Maps"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apple Pay"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Apple Sign In"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Applicant Tracking Systems – ATS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Application Development"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Application Insight"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Application Patching"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Application Programming Interfaces (APIs)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Application Software"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Application Support"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Application container cloud"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Application gateway"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Application interface code"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Applications Server"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Approval Process"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Approval Processes"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Approval process"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AppsFlyer"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Appwrite Cloud"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Aptana"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Aptana Studio"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Apttus cloud"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Architecture"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Archive Gap"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Arcos"
+                },
+                {
+                    "doc_count": 11,
+                    "key": "Arduino"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Arduino IDE"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Ariba tool"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Article Submission"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Articulate communications"
+                },
+                {
+                    "doc_count": 5,
+                    "key": "Artificial Intelligence"
+                },
+                {
+                    "doc_count": 8,
+                    "key": "Asana"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Asp .NET with C#"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Asp .Net C#"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Asp. Net MVC"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Asp.NET"
+                },
+                {
+                    "doc_count": 6,
+                    "key": "Asp.Net"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Asp.Net ADO"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Asp.Net MVC"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Asp.Net Web-API"
+                },
+                {
+                    "doc_count": 10,
+                    "key": "Asp.net"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Asp.net C#"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Asp.net Core"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Asp.net MVC"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Asp.net core"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Asp.net with C#"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Asp.net(C sharp. Angular)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Aspose.words for Java"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Assembly language programming"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Asset Management & Life Cycle"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Associate Certified"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Assurance"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Asterisk"
+                },
+                {
+                    "doc_count": 7,
+                    "key": "AstraDB"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Async"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Asynchronous Apex"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Atalassian Jira"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Atlasian Jira"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Atlassian Confluence"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Atlassian JIRA"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Atlassian Jira"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Atlassian Tools"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Atlassian tools"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Atlassian-Confluence"
+                },
+                {
+                    "doc_count": 7,
+                    "key": "Atmel AVR"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Atom"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Atom.io."
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Atomchat"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Attending conferences meetings and industry events"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Attention to Detail"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Attention to detail"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Attentive"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Audio Signal Processing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Audio Speech Signal Processing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Audit"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Augmented Reality"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Aura"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Aura Component"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Aura Components"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Auth"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Auth0"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Authentication"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Authentication(Jwt Bearer)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Auto Close Tag"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Auto Layout"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Auto Scaling"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Auto scaling"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "AutoCAD"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Autodesk Sales"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Automated Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Automating Web Application Testing using Selenium Web driver"
+                },
+                {
+                    "doc_count": 13,
+                    "key": "Automation"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Automation Anywhere (A360 v11.x Control Room)"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Automation Co-Pilot"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Automation Frameworks"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Automation Frameworks (Data Driven Cucumber Appium)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Automation Process"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Automation Project"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Automation Regression Pack"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Automation TechStack"
+                },
+                {
+                    "doc_count": 57,
+                    "key": "Automation Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Automation Testing (Web Mobile API)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Automation Testing Tools"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Automation Testing using Appium"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Automation Testing with Selenium WebDriver"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Automation Tools"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Automation flows"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Automation scripting"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Automation testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Avro"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Avro JSON"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Awk Script"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Aws Ec2"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Aws RDBMS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Aws S3"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Aws SES"
+                },
+                {
+                    "doc_count": 8,
+                    "key": "Axios"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Axure & Balsamiq"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Axure RP"
+                },
+                {
+                    "doc_count": 56,
+                    "key": "Azure"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure AD B2C services"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure AI Search"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure AI Tools"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Administrator"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure App Configurations"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure App Services"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Architect Technologies"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Automation"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Blob Storage"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Boards"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Azure Cloud"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure DB"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Azure Data Factory"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Data Lake Storage"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Data Studio"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Azure Databricks"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Databricks PySpark"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Deployment"
+                },
+                {
+                    "doc_count": 36,
+                    "key": "Azure DevOps"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure DevOps CI/CD"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure DevOps Git"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure DevOps Tools"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Azure Devops"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Azure Devops CI/CD"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Function"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Function Apps"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Functions"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Fundamentals"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Hub Notifications"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Azure IAAS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Machine Learning"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Pipeline"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Repos"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure SQL"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Azure SQL Database"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Services"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Synapse"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure VPN"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Visual Studio Team System"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure Web Jobs"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure backups"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure functoinApps"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure services"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Azure-DevOps"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Azure-Devops"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "AzureDevOps"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "B2B & B2C"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "B2B & B2C Sales"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "B2B Email Marketing"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "B2B Sales"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "B2C Commerce Cloud"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "B2C Sales"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "B2b Sales"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BASIC"
+                },
+                {
+                    "doc_count": 5,
+                    "key": "BDD"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BDD (Behavior Driven Development)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BDD Framework"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BDD cucumber"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BDD-Cucumber"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BDM"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "BEM"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BI Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BIRT Reports"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BLOC architecture"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BLoC"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BMC"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "BMC Helix"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "BMC Remedy"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BOM"
+                },
+                {
+                    "doc_count": 15,
+                    "key": "BOOTSTRAP"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BOOTSTRAP 4"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BOOTSTRAP MATERIAL DESIGN"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BOOTSTRAP/ ANT"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BOOTSTRAP4"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "BRD"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "BRD/FRD"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BSS"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "BUGZILLA"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Babel"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Back End Operations"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Back Link Generation"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Back-end"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BackBase Forms"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BackBase PortalPages (CXP)"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Backbone"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Backend"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Backend Development"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Backend Frameworks"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Backend Technology"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Backend tests"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Background data synchronization"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Background sync"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Backlink Strategy Development"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Backlog"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Backlog Management"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Backlog grooming"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Backup & Recovery"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Backup & Restore"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Backup Status Monitoring"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Backup Tools: Tivoli Networker"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Backup and Recovery"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Backup and Recovery Strategy"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Backup policies"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Backup/Recovery"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Backup/Restore"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Balsamic"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Balsamiq"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Balsmiq"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Bamboo"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Banking"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Banking Software"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Basecamp"
+                },
+                {
+                    "doc_count": 17,
+                    "key": "Bash"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bash Script"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bash Scripting"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bash Shell Scripting"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bash scripting"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bash/Shell Scripting"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Algorithms"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Angular"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Angular / Material Design"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Angular Js"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Angular js"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Angular(4/6)"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Angular-7"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Computer Operations"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic HTML"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Html & CSS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic IT skills"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Basic Java"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Java & Jenkins"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic JavaScript"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Javascript"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Linux"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic ML Pipelines"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Node"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic PHP"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Programming"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Basic Python"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic React"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic ReactJS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic SEO"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic SQL"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic SQL Database query"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic SQL Queries"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic Shell Scripting"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic computer skill in source application tool"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic conceptual knowledge of OOPs concept"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic econometric modeling and statistical inference"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic knowledge of .Net"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic knowledge of Automation Testing using Selenium Web driver with Java framework"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic knowledge of Computer"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic knowledge of MS Office"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic of Angularjs"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basic of React native"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Basics Of .net"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basics knowledge of Photoshop"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basics of .net web api"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basics of JQuery"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basics of Java"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basics of JavaScript"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basics of MVC"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Basics of SQL"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Basics of Selenium using Java"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Basics of Spring"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Basics of Spring boot"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Basics of UNIX commands"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Basics of type script"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Batch Analysis"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Batch Classes"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Batch Script"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Batch Scripting"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Beacons"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Beautiful Soup"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "BeautifulSoup"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Behavioral Facilitation"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Best Practice Implementation"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Best Practices"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BhashSMS"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bid Managment"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Bid Processes"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bidding"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Big Data"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bill&Pay"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Billing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bit"
+                },
+                {
+                    "doc_count": 15,
+                    "key": "Bit Bucket"
+                },
+                {
+                    "doc_count": 4,
+                    "key": "Bit bucket"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Bit-bucket"
+                },
+                {
+                    "doc_count": 16,
+                    "key": "BitBucket"
+                },
+                {
+                    "doc_count": 59,
+                    "key": "Bitbucket"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bitbucket pipelines"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "BitṣBucket"
+                },
+                {
+                    "doc_count": 7,
+                    "key": "Black Box Testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Black box"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Black box Testing"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Black box testing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Blackbox Testing Techniques"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Blasting and Painting"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Blazemeter"
+                },
+                {
+                    "doc_count": 3,
+                    "key": "Blazor"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Blender"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Bloc"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bloc state management"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Blockchain"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Blocks Programming"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Blog Submission"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Blog Writing & Content Optimization"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Blogging/ Content writing"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "BookshelfJs"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Boolean Search"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Boostrap4"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Boot"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Boot Strap"
+                },
+                {
+                    "doc_count": 8,
+                    "key": "BootStrap"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bootstarp"
+                },
+                {
+                    "doc_count": 311,
+                    "key": "Bootstrap"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bootstrap (or other CSS frameworks)"
+                },
+                {
+                    "doc_count": 5,
+                    "key": "Bootstrap 3"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bootstrap 3 4 and 5"
+                },
+                {
+                    "doc_count": 2,
+                    "key": "Bootstrap 3/4/5"
+                },
+                {
+                    "doc_count": 1,
+                    "key": "Bootstrap 345"
+                },
+                {
+                    "doc_count": 8,
+                    "key": "Bootstrap 4"
+                }
+            ]
+        }
+    }
+}
