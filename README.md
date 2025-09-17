@@ -72,7 +72,7 @@ skill-clustering-engine/
 3. **Run the pipeline**
 
    ```bash
-   python src/main.py
+   python src/prototype_model.py
    ```
 
 4. **Check the output**
