@@ -33,9 +33,9 @@ The goal is to help **HR teams, recruiters, and data platforms** clean and organ
 ```
 skill-clustering-engine/
 │── src/
-│   ├── skill_cleaner.py      # normalization functions
-│   ├── embed_cluster.py      # embeddings + clustering pipeline
-│   ├── main.py               # entrypoint script
+│   ├── prototype model.py      # normalization functions
+│   
+│  
 │── data/
 │   ├── Mega_Skills_List__full_.csv   # example dataset
 │   ├── skills(new).json              # example input
@@ -118,7 +118,3 @@ skill-clustering-engine/
 ⭐️ *Built during my internship to improve skill data pipelines. Open to contributions and ideas!*
 
 ---
-
-This longer version makes the repo look like a **serious project** rather than just a script.
-
-👉 Do you also want me to tailor a **resume-ready one-liner + bullet points** for this project so you can list it under your internship experience?
